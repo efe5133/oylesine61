@@ -1,0 +1,3 @@
+document.getElementById('affetBtn').addEventListener('click', () => {
+  alert('çokk özlemisstimmm.');
+});
